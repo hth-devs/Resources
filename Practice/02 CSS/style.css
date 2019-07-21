@@ -1,0 +1,41 @@
+/* Selector{
+    property: value;
+} */
+
+*{
+    text-align: right;
+}
+
+h2{
+    color: aqua;
+    text-align: center;
+    border: 5px double darkcyan;
+}
+
+p{
+    color: crimson;
+    border: 5px dotted pink;
+    text-align: center;
+}
+#firstid{
+    color: coral;
+    background-color: darkcyan;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    
+   
+}
+a{
+    text-decoration: none;
+}
+/* a:hover{
+    cursor: pointer;
+} */
+li{
+    transition: border 0.2s ease-in-out;
+    border-bottom: 1px solid transparent;
+}
+
+

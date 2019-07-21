@@ -1,0 +1,7 @@
+(Reserch Assignment)
+Add a Video on HTML page and add Controls to the video.
+Download sample from here: https://sample-videos.com/
+
+Also add a Youtube video on your web page.
+
+Submit Date: Friday (19-07-2019)

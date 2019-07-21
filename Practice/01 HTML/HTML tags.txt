@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Web</title>
+    </head>
+    <body>
+        <h1>Heading 11</h1>
+        <h2>Heading 2</h2>
+        <h6>Heading 6</h6>
+        <p><em>Lorem ipsum</em> dolor sit amet, consectetur adipisicing elit. Laudantium fugit necessitatibus inventore in aliquam debitis suscipit eius mollitia! Porro impedit facere nulla sint cum quasi optio ut officia doloremque vitae?</p>
+
+        <!-- LIst -->
+        <ol>
+            <li>Hasnat</li><br>
+            <li>Tamoor</li><br>
+            <li>Kashif</li><hr>
+        </ol>
+
+        <ul>
+                <li>Hasnat</li>
+                <li>Tamoor</li>
+                <li>Kashif</li>
+        </ul>
+
+        <img src="img.png" alt="Logo" height="300" width="400">
+        <a href="https://google.com">Google</a>
+    </body>
+</html>
+
+
+
+Tags We Covered.
+HTML Body
+Heading
+paragraph
+Bold vs Strong
+italic vs em.
+Lists(Orderd & unordered).
+
+Self Closing Tags.
+Horizonatal Line
+Break line
+Image tag.
+Anchor Tag.
