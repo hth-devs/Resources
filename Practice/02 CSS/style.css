@@ -1,41 +1,22 @@
-/* Selector{
-    property: value;
-} */
-
-*{
-    text-align: right;
+.container{
+    margin-top: 100px;
 }
 
-h2{
-    color: aqua;
-    text-align: center;
-    border: 5px double darkcyan;
-}
-
-p{
-    color: crimson;
-    border: 5px dotted pink;
-    text-align: center;
-}
-#firstid{
-    color: coral;
-    background-color: darkcyan;
-}
-li{
-    list-style: none;
+.div1{
+    padding: 10px;
+    border: 5px solid pink;
+    margin: 5px;
     display: inline-block;
-    
-   
-}
-a{
-    text-decoration: none;
-}
-/* a:hover{
-    cursor: pointer;
-} */
-li{
-    transition: border 0.2s ease-in-out;
-    border-bottom: 1px solid transparent;
 }
 
-
+.activate{
+    height: 200px;
+}
+p{
+    color: blue ;
+    font-size: 3em;
+    font-family: fantasy;
+}
+p{
+    color: pink;
+}

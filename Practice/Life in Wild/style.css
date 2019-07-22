@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1{
+    font-size: 3em;
+    font-family: cursive;
+    width: 400px;
+    text-align: center;
+    border-bottom: 4px solid pink;
+    border-right: 4px solid pink;
+    box-shadow: 4px 4px 5px #888888;
+}
+img{
+    height: 300px;
+    margin: 10px;
+    transition: all 1s;
+}
+
+img:hover{
+    transform: scale(1.1)
+}
