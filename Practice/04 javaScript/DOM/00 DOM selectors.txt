@@ -1,0 +1,47 @@
+DOM 
+--------------
+* Change All the HTML Elements in the page.
+* Change All the HTML attributes in the page.
+* Change All the CSS Style in the page.
+* Remove Existing HTML elements and attributes in the page.
+* Add new HTML elements and attributes in the page.
+* JavaScript can react to all existing HTML events in the page.
+* JavaScript can Create New HTML events in the page.
+
+
+
+
+
+
+
+
+
+DOM Selectors
+--------------
+getElementsByTagName
+getElementsByClassName
+getElementById
+
+querySelector
+querySelectorAll
+
+getAttribute
+setAttribute
+
+##Changing Styles
+style.{property} //ok
+
+className //best
+classList //best
+
+classList.add
+classList.remove
+classList.toggle
+
+##Bonus
+innerHTML //DANGEROUS
+
+parentElement
+children
+
+##It is important to CACHE selectors in variables

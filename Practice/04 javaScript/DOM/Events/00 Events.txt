@@ -1,0 +1,8 @@
+Events for Dom;
+https://developer.mozilla.org/en-US/docs/Web/Events
+
+JavaScript Key Code
+https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+
+JQuery
+http://youmightnotneedjquery.com/
