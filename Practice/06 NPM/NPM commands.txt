@@ -1,0 +1,7 @@
+Install React App Globely
+npm install -g create-react-app
+
+
+
+For Creating an App my-app
+create-react-app my-app

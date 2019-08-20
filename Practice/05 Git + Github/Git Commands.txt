@@ -1,0 +1,21 @@
+For Cloning a Repository
+git clone <repositery name>
+
+
+for checking git status
+git status
+
+
+for adding all files in Repository
+git add .
+
+
+for commiting your message
+git commit -m "your ccommit message"
+
+
+Push to the Repository
+git push
+
+Pull all the Changes From the Repository
+git pull
